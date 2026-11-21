@@ -1,5 +1,7 @@
 # Undergraduate Projects｜大學課程與研究作品
 
+**繁體中文** | [English](./README.en.md)
+
 本儲存庫收錄 6 份課程相關 PDF，以及 1 份學士論文。下表依文件可查證的日期排序，列出每份課程文件的來源、內容與日期。
 
 ## COURSEWORK
