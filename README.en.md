@@ -2,21 +2,39 @@
 
 [繁體中文](./README.md) | **English**
 
-This repository contains six course-related PDFs and one undergraduate thesis. The table below lists each course document's source, summary, and verifiable date in chronological order.
+This repository contains ten undergraduate course reports, proposals, or presentations, plus one assignment brief and one undergraduate thesis. The topics span transportation and infrastructure, building design and surveying, water and disaster resilience, and data analysis. All documents are PDFs; some course projects were completed in teams.
 
-## COURSEWORK
+## Course projects
 
-| Document | Course source | Summary | Date |
-| --- | --- | --- | --- |
-| [Civil Engineering Building Expansion: BIM Project Brief](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Civil%20Engineering%20Building%20Expansion%20%E2%80%93%20BIM%20Design%20Project.pdf) | Department of Civil Engineering, National Taiwan University; Engineering Graphics (CIE 1005) | A request for proposals for renovating and expanding the Civil Engineering Building. It calls for BIM models of the foundation, structural, enclosure, and interior systems, plus a design proposal and drawings. This PDF is the **assignment brief**, not a completed student project. | Fall 2022 (stated on the cover) |
-| [Urbanization and Runoff on the NTU Campus](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Before-and-After%20Analysis%20of%20Urbanization%20Impacts%20on%20NTU%20campus.pdf) | Hydrology-related course; the cover identifies this as the second midterm assignment but does not state the official course title. | Uses the NTU campus and Typhoon Morakot rainfall as a case study. Curve Numbers (CN) are used to estimate excess rainfall and direct runoff before and after urbanization and to discuss changes in infiltration and drainage. | PDF created: 2024-11-30 |
-| [TSMC Financial Statement Analysis](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Engineering%20Economics%20Final%20Report-Financial%20Statement%20Analysis.pdf) | Engineering Economics; final project (stated on the cover) | Analyzes the financial statements of TSMC and its subsidiaries, covering the industry, ESG, capital structure, liquidity, operating performance, and profitability. | PDF created: 2025-06-02 |
-| [River Channel and Hydraulic Jump Simulation with HEC-RAS](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Hydraulic%20Engineering%20Final%20Report%20%E2%80%93%20River%20Channel%20Simulation%20Using%20HEC-RAS.pdf) | Hydraulic Engineering; final report (stated on the cover) | Builds a HEC-RAS river channel model, adjusts Manning's roughness coefficient and cross-section spacing, and compares simulated hydraulic jump locations with published experimental results. | PDF created: 2025-06-12 |
-| [Distinguishing Human and Automated Web Behavior](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Evaluating%20the%20Ability%20of%20Background%20Verification%20Systems%20to%20Distinguish%20Human%20and%20Automated%20Behavior.pdf) | Machine learning-related course; the report mentions the course and a midterm competition but does not state the official course title. | Collects human and scripted interaction data using a custom webpage and automation scripts, builds a binary classifier, and examines features such as backspace use and scrolling along with misclassified cases. | PDF created: 2025-12-23 |
-| [Shelter Selection in Taipei under Heavy Rainfall and Typhoons](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Analysis%20and%20Research%20on%20Optimal%20Shelter%20Selection%20in%20Taipei%20City%20under%20Heavy%20Rainfall%20and%20Typhoon%20Conditions.pdf) | Road network and spatial analysis-related course; the cover calls this a final project and the report mentions a sixth-week class, but the official course title is not given. | Combines Taipei's road network, shelters, rainfall, and hazard data to assess evacuation routes and accessibility, then examines transport resilience across terrain and road-network-density categories. | PDF created: 2026-11-20 |
+### Transportation and infrastructure
 
-> **About the dates:** “Fall 2022” appears on the Engineering Graphics assignment cover. All other dates come from PDF creation metadata; **they are not submission dates or confirmed course semesters**. The documents do not give submission dates. Where a formal course title is absent, the course area is described from the document's cover or text and marked accordingly.
+- [2021 Taroko Express derailment case study](./2021%20Taroko%20Express%20Derailment%20Case%20Study.pdf) — A Railway Transportation team term report. Reviews the accident and investigation, uses fault-tree analysis to examine contributing factors, and discusses construction-site controls and safety measures.
+- [Highway 2 Km 68 slope characterization](./Highway_2_Km68_Slope_Characterization.pdf) — An Engineering Geology and Applications final report. Examines rock layers, geological structures, and human disturbance at a landslide site; evaluates existing protection works and proposes reinforcement and monitoring.
+- [“Birdge” campus pedestrian bridge design](./Pedestrian_Bridge_Design.pdf) — A team final proposal presentation for the course labeled “土概 02.” Designs for campus access, wildlife habitat, and nighttime lighting, with revisions informed by component and load testing.
 
-## Undergraduate thesis (not COURSEWORK)
+### Buildings, construction, and surveying
 
-- [Modern Roundabout Safety in a Motorcycle-Dominated Environment](https://github.com/Chuang-ben/Undergraduate-Projects/blob/main/Undergraduate%20Thesis%20-%20Modern%20Roundabout%20Safety.pdf): Undergraduate thesis research at National Taiwan University. Uses staggered difference-in-differences to assess crash safety after conventional traffic circles were converted into modern roundabouts in a motorcycle-dominated setting. **Date:** PDF created on 2026-10-19; the document does not state a formal submission date.
+- [NTU student residence hall construction plan](./Construction%20Planning%20for%20a%20New%20Student%20Residence%20Hall%20at%20National%20Taiwan%20University.pdf) — A team construction-management final report. Proposes a residence hall design and construction plan covering work sequencing, schedule, cost and cash-flow analysis, and value engineering. This is a course proposal.
+- [Surveying fieldwork report](./Surveying%20Fieldwork%20Final%20Report.pdf) — A team report for the Fall 2022 surveying fieldwork course. Compiles campus building and terrain surveys, field observations, data processing, and drawings.
+
+### Hydrology, hydraulics, and disaster resilience
+
+- [Urbanization and runoff on the NTU campus](./Before-and-After%20Analysis%20of%20Urbanization%20Impacts%20on%20NTU%20campus.pdf) — A hydrology-related midterm assignment; the PDF does not give the official course title. Uses Typhoon Morakot rainfall and the Curve Number method to estimate excess rainfall and direct runoff before and after land-use change.
+- [HEC-RAS river channel and hydraulic-jump simulation](./Hydraulic%20Engineering%20Final%20Report%20%E2%80%93%20River%20Channel%20Simulation%20Using%20HEC-RAS.pdf) — A Hydraulic Engineering team final report. Builds a river-channel model, varies Manning's roughness coefficient and cross-section spacing, and compares simulated hydraulic-jump locations with a reference study.
+- [Shelter selection in Taipei under heavy rainfall and typhoons](./Analysis%20and%20Research%20on%20Optimal%20Shelter%20Selection%20in%20Taipei%20City%20under%20Heavy%20Rainfall%20and%20Typhoon%20Conditions.pdf) — A road-network and spatial-analysis-related final project; the PDF does not give the official course title. Combines road, shelter, and rainfall-risk data to examine evacuation routes, accessibility, and transport resilience.
+
+### Data analysis and engineering economics
+
+- [Distinguishing human and scripted web behavior](./Evaluating%20the%20Ability%20of%20Background%20Verification%20Systems%20to%20Distinguish%20Human%20and%20Automated%20Behavior.pdf) — A machine-learning-related study; the PDF does not give the official course title. Collects human and scripted interactions, trains a binary classifier, and examines behavioral features and misclassified cases.
+- [TSMC financial statement analysis](./Engineering%20Economics%20Final%20Report-Financial%20Statement%20Analysis.pdf) — An Engineering Economics final project. Analyzes the financial structure, liquidity, operating performance, and profitability of TSMC and its subsidiaries.
+
+## Undergraduate thesis
+
+- [Modern Roundabout Safety in Motorcycle-Dominated Environment](./Undergraduate%20Thesis%20-%20Modern%20Roundabout%20Safety.pdf) — An undergraduate thesis at National Taiwan University. Uses staggered difference-in-differences to assess crash safety after conventional traffic circles were converted to modern roundabouts in a motorcycle-dominated setting.
+
+## Assignment brief
+
+- [Civil Engineering Building Expansion BIM brief](./Civil%20Engineering%20Building%20Expansion%20%E2%80%93%20BIM%20Design%20Project.pdf) — A request for proposals from National Taiwan University's Engineering Graphics course (CIE 1005), Fall 2022, setting out BIM design requirements for renovating and expanding the Civil Engineering Building. This PDF is the **assignment brief**, not a completed student project.
+
+> **Document note:** Entries are grouped by topic. PDF creation dates do not establish course semesters or submission dates; consult the original documents for stated dates, team members, and individual contributions.
+
